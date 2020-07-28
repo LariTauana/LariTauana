@@ -1,4 +1,5 @@
-### Hi there, I'm Lar
+### Hi there, I'm software developer
+
 
 <!--
 **LariTauana/LariTauana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
