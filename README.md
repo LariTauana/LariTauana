@@ -1,8 +1,8 @@
 ### Hi there, I'm software developer
 
-
-
-**LariTauana/LariTauana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️Software Developer, currently based in Brazil
+ ✨ 
+ ✨ 
 
 Here are some ideas to get you started:
 
