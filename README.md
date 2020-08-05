@@ -1,6 +1,6 @@
 ### 🤙🏼Hi! I'm a Back-end Developer
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-tauana/)](https://www.linkedin.com/in/larissa-tauana/)
+[!Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-tauana/)](https://www.linkedin.com/in/larissa-tauana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissatauanadasilva@gmail.com)](mailto:larissatauanadasilva@gmail.com)
 
 ✨Knowledge and evolution! 🚀
