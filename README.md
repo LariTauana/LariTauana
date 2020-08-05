@@ -1,4 +1,4 @@
-### 🤙🏼Hi! I'm a Software Developer
+### 🤙🏼Hi! I'm a Back-end Developer
 
 ![Linkedin Badge](https://img.shields.io/badge/-LarissaTauana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-tauana/)
 [![Gmail Badge](https://img.shields.io/badge/-larissatauanadasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissatauanadasilva@gmail.com)](mailto:larissatauanadasilva@gmail.com)
